@@ -1,23 +1,11 @@
 # Vitess-Setup
 
-This repository contains the steps to setup Vitess on Local Machine.
+This repository contains the steps to setup Vitess. You can choose to run vitees on docker or on local machine. In this repository, use **vitees version 20.0.**
 
-## 1. Requirements
+1. Local Machine
+   You can run vitess on local machine by following the steps in
+   [Vitess-Local](./Vitess-Local/README.md)
+2. Docker
+   You can run vitess on docker by following the steps in [Vitess-Docker](./Vitess-Docker/README.md)
 
-Run requirements.sh to install all the required dependencies.
-
-```
-bash requirements.sh
-```
-
-## 2. Clone the repository
-
-```
-git clone https://github.com/vitessio/vitess.git
-```
-
-next step is to build the vitess
-
-```
-cd vitess && make build
-```
+For more information on Vitess, visit the [official website](https://vitess.io/) and the [github repository](https://github.com/vitessio/vitess)
