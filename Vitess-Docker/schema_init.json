@@ -1,0 +1,27 @@
+{
+  "tables": {
+    "activity_log": {},
+    "cache": {},
+    "cache_locks": {},
+    "categories": {},
+    "failed_jobs": {},
+    "job_batches": {},
+    "jobs": {},
+    "media": {},
+    "migrations": {},
+    "model_has_permissions": {},
+    "model_has_roles": {},
+    "notifications": {},
+    "password_reset_tokens": {},
+    "permissions": {},
+    "posts": {},
+    "role_has_permissions": {},
+    "roles": {},
+    "sessions": {},
+    "settings": {},
+    "taggables": {},
+    "tags": {},
+    "user_providers": {},
+    "users": {}
+  }
+}
